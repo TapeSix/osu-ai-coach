@@ -11,9 +11,10 @@ An automated tool that analyzes your osu! replays in real-time and generates det
 - **Background Mode**: Seamlessly minimizes into the system tray so it doesn't interfere with your gaming sessions or drop your FPS.
 
 ## 🚀 How to Run (For Players)
-1. Go to the **Releases** section on the right and download the latest `osu.exe`.
+1. 📥 **[Download the latest osu.exe here](https://github.com)**
 2. Run the executable and select your osu! Replays folder (typically `Data/r` inside your osu! directory).
 3. Just play any map — your personal dashboard will update automatically in the background!
+
 
 ## 🛠️ Development & Building from Source
 If you want to run the project from the source code, fix my AI's spaghetti logic, or modify it:
