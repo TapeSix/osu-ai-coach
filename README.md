@@ -13,7 +13,7 @@ An automated tool that analyzes your osu! replays in real-time and generates det
 ## 🚀 How to Run (For Players)
 1. 📥 **[Download the latest osu.exe here](https://github.com/TapeSix/osu-ai-coach/releases)**
 2. Run the executable and select your osu! Replays folder (typically `Data/r` inside your osu! directory).
-3. Just play any map — your personal dashboard will update automatically in the background!
+3. Just play any map and save replay (F2 key) — your personal dashboard will update automatically in the background!
 
 
 ## 🛠️ Development & Building from Source
